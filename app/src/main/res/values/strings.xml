@@ -6,4 +6,16 @@
     <string name="music_mode_all_loop">全部循环</string>
     <string name="music_mode_sequence">顺序播放</string>
     <string name="music_mode_all_random">随机播放</string>
+
+    <string name="music_no_songs">没有歌曲了</string>
+    <string name="music_no_previous">没有前一首了</string>
+
+    <string-array name="file_size_units">
+        <item>B</item>
+        <item>kB</item>
+        <item>mB</item>
+        <item>gB</item>
+        <item>tB</item>
+        <item>pB</item>
+    </string-array>
 </resources>
